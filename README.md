@@ -87,6 +87,4 @@ python run_analysis.py
 
 ---
 
-## 📜 Citation & License
 
-This repository is distributed under the **MIT License**.
